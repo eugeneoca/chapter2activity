@@ -10,8 +10,9 @@ public class Main {
         short d = 0;
         String e = "rld ";
         float f = 2.0f;
+        boolean g = true;
 
-        System.out.println("" + a + b + " " + c + ""+d + e + f);
+        System.out.println("" + a + b + " " + c + d + e + f + " " + g);
 
 
         TaskThree.run();
